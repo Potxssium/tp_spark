@@ -15,7 +15,7 @@ tp_spark_job/
 └── data/
     └── bronze
             └── [Télécharger les fichiers de données ici]
-            └── silver
+    └── silver
 ```
 
 ## Accès au dépot GitHUb
