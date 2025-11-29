@@ -20,5 +20,5 @@ tp_spark_job/
 
 ## Accès au dépot GitHUb
 
-Le TP est disponible sur ce repo GitHub : 
+Le TP est disponible sur ce repo GitHub : https://github.com/Potxssium/tp_spark
 
